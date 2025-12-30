@@ -1,4 +1,4 @@
-cask "Photoprint_Editor" do
+cask "fprint-editor" do
   version "4.2.0"
   sha256 "af555e91e2c29fdab245fbf4a287b573b5793828b7a800b5ef0d0651c9bea22c"  # Replace with the actual checksum for Driver 1
 
